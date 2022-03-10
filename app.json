@@ -14,7 +14,7 @@
     "youtube-dl",
     "leecher"
   ],
-  "repository": "https://github.com/SpEcHiDe/PublicLeech",
+  "repository": "https://github.com/megabottaa/PublicLeech",
   "website": "https://github.com/SpEcHiDe/PublicLeech",
   "logo": "https://telegra.ph/file/8b973b270f4f380a427b1.png",
   "env": {
@@ -24,11 +24,11 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "7226488"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "238b5570d095840cf6dc6fe2fdbc850a"
     },
     "TG_BOT_TOKEN": {
       "description": "get this value from @BotFather",
