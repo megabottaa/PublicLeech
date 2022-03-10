@@ -2,6 +2,8 @@
 
 A Torrent, youtube-dl Leecher, and Uploader!
 
+https://dashboard.heroku.com/new?template=https://github.com/megabottaa/PublicLeech
+
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [COPYING](./COPYING) for more details.
 
 ## installing
